@@ -1,0 +1,25 @@
+   M     M  EEEEE  RRRR    RRRR   YY   YY             * *       *              
+   MMM MMM  E      R   R   R   R   YY YY            *         **       * *     
+   M MMM M  EEEEE  R RRR   R RRR    YYY      *  *        * * *   *      *      
+   M     M  E      R  R    R  R      Y        *        **  ***  *   * *      * 
+   M     M  EEEEE  R   R   R   R     Y          *     *     *   * *     *   *  
+                                                 ** *   * * *   *   * *   **   
+     XX    XX         M     M     AAA      SSSSS       *   *     **  *    *    
+      XX  XX          MMM MMM    AAAAA    SS  SSS         * *** **   *      *  
+       XXXX           MMMMMMM   AA   AA   SS       *   *** *   *   *    **   **
+        XX     =====  M MMM M   AA   AA    SSSSS    * *      * *    *****   * *
+       XXXX           M  M  M   AAAAAAA        SS     * *  *    *      *     * 
+     XX    XX         M     M   AA   AA   SS  SSS     *       *  *  **   * *   
+    XX      XX    *   M     M   AA   AA    SSSS        *     *    * *   *   *  
+   *             * **                                   *   *      *   *       
+  * *           *                    **        ***       ***      * * *      * 
+      *    **   **    * ** ***     *   *   ***     *     *  *   **             
+       * **    *  *    *  *  ***  *     * *         *   *  *** *           *   
+        *          *        *  ***       *         * * *      *       **       
+  *           *     *      *     *      * *       * * *     *      * *  *  **  
+ * *         *   **  *    *            *   *     *   *     * *    * **    *    
+*   **      *   *  *  *        *  *   *     *   *     *   **  *  * *     *     
+    ***    *        **  ***   * *  * ***     * ****    * ** *  ** *   *  **   *
+   *  *** * ** *       * * **    ** *   *  *  *    *  * *    * **      **  * * 
+  *    * *    *       * *    *     * *   ** *  *    **   *    *  *          *  
+**      *              *            *        **                                
